@@ -6,7 +6,7 @@ weight: 10
 author: admin
 design:
   background:
-    image: wp1810080-moana-wallpapers-modified-1-.png
+    image: wp1810080-moana-wallpapers.jpg
     gradient_start: "#17d220"
     gradient_end: "#cf0093"
 ---
