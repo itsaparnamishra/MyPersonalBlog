@@ -2,14 +2,19 @@
 title: Aparna Mishra
 role: ""
 avatar_filename: wp1810080-moana-wallpapers-modified-1-.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Sharing Data Science, Machine Learning, Natural Language Processing related
+  articles.
 social:
   - display:
       header: false
     link: https://twitter.com/AparnaMishra144
     icon_pack: ai
     icon: <i class="fa-light fa-bird"></i>
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/aparna-mishra-a934b6212/
+    icon_pack: ai
+    icon: <i class="fa-brands fa-linkedin"></i>
 organizations:
   - name: Accenture India
     url: https://www.accenture.com/in-en
@@ -23,4 +28,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A﻿ budding Data Scientist.
