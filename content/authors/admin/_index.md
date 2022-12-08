@@ -1,6 +1,7 @@
 ---
 title: Aparna Mishra
 role: ""
+avatar_filename: wp1810080-moana-wallpapers-modified.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
