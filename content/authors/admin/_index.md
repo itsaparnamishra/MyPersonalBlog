@@ -6,12 +6,12 @@ bio: Sharing Data Science, Machine Learning, Natural Language Processing related
   articles.
 social:
   - display:
-      header: false
+      header: true
     link: https://twitter.com/AparnaMishra144
     icon_pack: ai
     icon: <i class="fa-light fa-bird"></i>
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/aparna-mishra-a934b6212/
     icon_pack: ai
     icon: <i class="fa-brands fa-linkedin"></i>
